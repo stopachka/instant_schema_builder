@@ -1,4 +1,4 @@
-const { init, id, tx, transact } = require("@instantdb/admin");
+const { id } = require("@instantdb/admin");
 
 const config = {
   apiURI: "http://localhost:8888",
